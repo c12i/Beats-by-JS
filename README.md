@@ -7,7 +7,7 @@
 Collins Muriuki
 
 ## Description
-Courtesy of (Dev Ed)[https://www.youtube.com/watch?v=2VJlzeEVL8A&t=896s]. This app allows the user to make beats by tappong on the color pads at the bottom of the screen.
+Courtesy of [Dev Ed](https://www.youtube.com/watch?v=2VJlzeEVL8A&t=896s). This app allows the user to make beats by tappong on the color pads at the bottom of the screen.
 
 ## Installation and Set-up
 To view the app, open the Github Pages link provided below on the README.
