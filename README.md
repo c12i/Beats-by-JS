@@ -1,6 +1,8 @@
 # Beats by JS
 ## A fun app for making beats online
 
+![alt text](images/screenshots.jpg)
+
 ## Author
 Collins Muriuki
 
