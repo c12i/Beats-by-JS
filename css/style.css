@@ -36,6 +36,7 @@ header p{
     height: 100px;
     width: 100px;
     flex: 1;
+    cursor: pointer;
 }
 
 .pad1{
