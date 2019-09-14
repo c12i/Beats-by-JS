@@ -22,6 +22,9 @@ window.addEventListener("load", () => {
        visual.appendChild(bubble);
        bubble.style.backgroundColor = colors[i];
        bubble.style.animation = "jump 1s ease";
+       bubble.addEventListener("animationend", () => {
+           visual.removeChild(bubble);
+       })
    }
 });
 
